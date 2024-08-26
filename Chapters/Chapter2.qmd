@@ -1,4 +1,11 @@
-# Chapter 2 Title {#sec-Chapter2}
+---
+format:
+  pdf:
+    documentclass: ../MastersDoctoralThesis
+    classoption: ["11pt", "english", "singlespacing", "headsepline"]
+---
+
+# Method {#sec-Chapter2}
 
 ## Main Section 1
 

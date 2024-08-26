@@ -5,7 +5,7 @@ format:
     classoption: ["11pt", "english", "singlespacing", "headsepline"]
 ---
 
-# Results {#sec-Chapter3}
+# Discussion {#sec-Chapter4}
 
 ## Main Section 1
 

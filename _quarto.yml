@@ -3,19 +3,23 @@ project:
   output-dir: .
 
 book:
-  title: Title of Master Thesis
-  date: 9th of July 2024
+  title: Single Cell learning in Paramecium
+  date: 26th of August 2024
   author:
-    name: Jane Doe
+    name: Kian Esfandiari
     url: http://www.janedoe.com
   downloads: [pdf]
-  abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis accumsan ante. Quisque lorem metus, varius id urna eget, lacinia dapibus sem. Etiam laoreet, quam ac mollis congue, arcu leo dictum neque, nec euismod sem enim luctus odio. Donec condimentum tortor sit amet mollis volutpat. Donec ornare libero vel velit malesuada consectetur. Vestibulum in sem non justo dignissim congue at quis erat. Integer quis erat vitae mi maximus fringilla tristique nec odio. Morbi non ipsum sapien. Vestibulum tortor est, ultricies in eros et, bibendum iaculis justo. Cras pellentesque enim quam, id pretium lacus lacinia non. Integer velit neque, ultrices a malesuada vel, imperdiet quis enim. Quisque eu facilisis urna, ut faucibus lorem. Donec mollis turpis sed arcu venenatis interdum. Nulla facilisis tortor ac scelerisque consequat."
+  abstract: "This is the abstract"
   chapters:
     - index.qmd
     - Chapters/Chapter2.qmd
-    - references.qmd
+    - Chapters/Chapter3.qmd
+    - Chapters/Chapter4.qmd
+
+  
   appendices:
     - Appendices/AppendixA.qmd
+    - Appendices/AppendixB.qmd
 
   site-url: https://nmfs-opensci.github.io/quarto-thesis/
   repo-url: https://github.com/nmfs-opensci/quarto-thesis
